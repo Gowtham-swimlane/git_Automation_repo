@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67aa42242a78cd772c4b9186"
+  ],
+  "createdDate": "2025-02-10T18:15:00.845Z",
+  "modifiedDate": "2025-02-10T18:15:20.544Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e-playbook-publish-57118",
+  "version": 2,
+  "id": "aXia5gxGO2DMoZ3oD",
+  "name": "QA-E2E-playbook-publish",
+  "disabled": true
+}
