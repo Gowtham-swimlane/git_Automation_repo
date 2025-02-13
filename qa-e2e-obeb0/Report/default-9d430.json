@@ -1,0 +1,27 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "a780VXBRFf5DEr_GJ"
+  ],
+  "columns": [
+    "67ae20f6e04c9100caa58217"
+  ],
+  "sorts": {
+    "67ae20f6e04c9100caa58217": "Ascending"
+  },
+  "filters": [],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": true,
+  "createdDate": "2025-02-13T16:42:30.596Z",
+  "modifiedDate": "2025-02-13T16:42:39.239Z",
+  "filterType": "And",
+  "colorCoding": [],
+  "uid": "default-9d430",
+  "version": 2,
+  "id": "67ae20f6e04c9100caa58219",
+  "name": "Default",
+  "disabled": false
+}
