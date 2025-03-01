@@ -1,0 +1,89 @@
+{
+  "description": "QA-E2E-App-Description",
+  "acronym": "QRFD",
+  "trackingFieldId": "67c339e0bb43d46349ab1996",
+  "layout": [
+    {
+      "fieldId": "ast9v",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c339e582a7f98e38fd2c5a",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "a3gea",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c339e562e3fb06c916d79a",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "step": 1,
+      "unique": false,
+      "prefix": "",
+      "suffix": "",
+      "format": "None",
+      "id": "ast9v",
+      "name": "Numeric",
+      "key": "numeric",
+      "fieldType": "Numeric",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Email",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "a3gea",
+      "name": "Email",
+      "key": "email",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "QRFD-",
+      "id": "67c339e0bb43d46349ab1996",
+      "name": "Tracking Id",
+      "description": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": true
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2025-03-01T16:46:24.731Z",
+  "modifiedDate": "2025-03-01T16:46:31.642Z",
+  "timeTrackingEnabled": false,
+  "visibleToHeroAiEnabled": true,
+  "selectionFields": {},
+  "uid": "qa-e2e--robust-foreground-data-warehouse-fee65",
+  "version": 2,
+  "id": "aXrIz8z7eMMDWXqHl",
+  "name": "QA-E2E- Robust foreground data-warehouse",
+  "disabled": false
+}

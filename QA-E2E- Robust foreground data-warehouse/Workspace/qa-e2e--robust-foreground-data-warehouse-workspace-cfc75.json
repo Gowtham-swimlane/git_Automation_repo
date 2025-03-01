@@ -1,0 +1,13 @@
+{
+  "createdDate": "2025-03-01T16:46:25.129Z",
+  "modifiedDate": "2025-03-01T16:46:25.129Z",
+  "dashboards": [],
+  "applications": [
+    "aXrIz8z7eMMDWXqHl"
+  ],
+  "uid": "qa-e2e--robust-foreground-data-warehouse-workspace-cfc75",
+  "version": 1,
+  "id": "aMSPqGxZ0bRu6dUbQ",
+  "name": "QA-E2E- Robust foreground data-warehouse Workspace",
+  "disabled": false
+}
