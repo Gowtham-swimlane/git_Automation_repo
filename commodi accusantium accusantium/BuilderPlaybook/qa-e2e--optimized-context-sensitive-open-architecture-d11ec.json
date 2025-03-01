@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c34fcf37d4ff51805ddb44"
+  ],
+  "createdDate": "2025-03-01T18:19:59.806Z",
+  "modifiedDate": "2025-03-01T18:20:23.463Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--optimized-context-sensitive-open-architecture-d11ec",
+  "version": 2,
+  "id": "adYGFjjROwS0oBabe",
+  "name": "QA-E2E- Optimized context-sensitive open architecture",
+  "disabled": true
+}
