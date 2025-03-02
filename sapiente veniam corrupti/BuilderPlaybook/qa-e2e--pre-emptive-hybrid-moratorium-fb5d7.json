@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c4cd4337d4ff51805ddb66"
+  ],
+  "createdDate": "2025-03-02T21:27:32.124Z",
+  "modifiedDate": "2025-03-02T21:27:52.931Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--pre-emptive-hybrid-moratorium-fb5d7",
+  "version": 2,
+  "id": "aNtWfSgV_m1k8Nmts",
+  "name": "QA-E2E- Pre-emptive hybrid moratorium",
+  "disabled": true
+}
