@@ -1,0 +1,89 @@
+{
+  "description": "QA-E2E-App-Description",
+  "acronym": "QALE",
+  "trackingFieldId": "67c4cc36ff2b88a40e7f7f1c",
+  "layout": [
+    {
+      "fieldId": "al3r8",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c4cc3eababff5d4e0cb419",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "atwqf",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c4cc3ff38c12f7e245181a",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "step": 1,
+      "unique": false,
+      "prefix": "",
+      "suffix": "",
+      "format": "None",
+      "id": "al3r8",
+      "name": "Numeric",
+      "key": "numeric",
+      "fieldType": "Numeric",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Email",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "atwqf",
+      "name": "Email",
+      "key": "email",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "QALE-",
+      "id": "67c4cc36ff2b88a40e7f7f1c",
+      "name": "Tracking Id",
+      "description": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": true
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2025-03-02T21:23:02.539Z",
+  "modifiedDate": "2025-03-02T21:23:14.686Z",
+  "timeTrackingEnabled": false,
+  "visibleToHeroAiEnabled": true,
+  "selectionFields": {},
+  "uid": "qa-e2e--adaptive-leading-edge-database-e7fee",
+  "version": 2,
+  "id": "a8iVG2EWf6dyBJ7Xw",
+  "name": "QA-E2E- Adaptive leading edge database",
+  "disabled": false
+}
