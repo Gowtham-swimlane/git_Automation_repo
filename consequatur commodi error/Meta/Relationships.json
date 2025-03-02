@@ -1,0 +1,1 @@
+{"Graph":[[{"TargetIndex":1,"Direction":1}],[{"TargetIndex":0,"Direction":-1}]],"NodeIdToIndex":{"a8GbY3X2ppIQlGjcQ":0,"67c4b37e15c249f8db7044cb":1},"IndexToNodeData":[{"NodeId":"a8GbY3X2ppIQlGjcQ","Type":"BuilderComponent"},{"NodeId":"67c4b37e15c249f8db7044cb","Type":"Playbook"}]}
