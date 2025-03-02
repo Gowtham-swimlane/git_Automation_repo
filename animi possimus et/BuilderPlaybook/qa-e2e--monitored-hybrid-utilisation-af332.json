@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c4cf5b429c5858e230573f"
+  ],
+  "createdDate": "2025-03-02T21:36:27.801Z",
+  "modifiedDate": "2025-03-02T21:36:47.41Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--monitored-hybrid-utilisation-af332",
+  "version": 2,
+  "id": "aJHUtFzeD4QsMWnvl",
+  "name": "QA-E2E- Monitored hybrid utilisation",
+  "disabled": true
+}
