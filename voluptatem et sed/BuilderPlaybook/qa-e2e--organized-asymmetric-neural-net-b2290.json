@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c4ce1f37d4ff51805ddb67"
+  ],
+  "createdDate": "2025-03-02T21:31:12.014Z",
+  "modifiedDate": "2025-03-02T21:31:32.069Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--organized-asymmetric-neural-net-b2290",
+  "version": 2,
+  "id": "aBNi4A4SrctvdrjWB",
+  "name": "QA-E2E- Organized asymmetric neural-net",
+  "disabled": true
+}
