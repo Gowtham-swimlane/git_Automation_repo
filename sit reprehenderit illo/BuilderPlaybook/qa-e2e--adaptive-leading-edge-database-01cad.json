@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c4cc71429c5858e230573e"
+  ],
+  "createdDate": "2025-03-02T21:24:01.451Z",
+  "modifiedDate": "2025-03-02T21:24:20.949Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--adaptive-leading-edge-database-01cad",
+  "version": 2,
+  "id": "a9CYb_0CgI9J88k8f",
+  "name": "QA-E2E- Adaptive leading edge database",
+  "disabled": true
+}
