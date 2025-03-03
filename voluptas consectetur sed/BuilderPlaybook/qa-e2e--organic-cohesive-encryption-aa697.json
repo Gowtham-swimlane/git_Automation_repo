@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c54b7715c249f8db7044d2"
+  ],
+  "createdDate": "2025-03-03T06:26:00.063Z",
+  "modifiedDate": "2025-03-03T06:26:23.307Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--organic-cohesive-encryption-aa697",
+  "version": 2,
+  "id": "a8PqVNel9tBPTcLng",
+  "name": "QA-E2E- Organic cohesive encryption",
+  "disabled": true
+}
