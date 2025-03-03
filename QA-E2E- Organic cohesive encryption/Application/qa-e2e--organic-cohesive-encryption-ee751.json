@@ -1,0 +1,89 @@
+{
+  "description": "QA-E2E-App-Description",
+  "acronym": "QOCE",
+  "trackingFieldId": "67c54b491974dfee7ff9221b",
+  "layout": [
+    {
+      "fieldId": "au9dz",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c54b530af9b79b891730fd",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "a9mzz",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c54b544b149e26b2090002",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "step": 1,
+      "unique": false,
+      "prefix": "",
+      "suffix": "",
+      "format": "None",
+      "id": "au9dz",
+      "name": "Numeric",
+      "key": "numeric",
+      "fieldType": "Numeric",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Email",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "a9mzz",
+      "name": "Email",
+      "key": "email",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "QOCE-",
+      "id": "67c54b491974dfee7ff9221b",
+      "name": "Tracking Id",
+      "description": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": true
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2025-03-03T06:25:13.539Z",
+  "modifiedDate": "2025-03-03T06:25:28.405Z",
+  "timeTrackingEnabled": false,
+  "visibleToHeroAiEnabled": true,
+  "selectionFields": {},
+  "uid": "qa-e2e--organic-cohesive-encryption-ee751",
+  "version": 2,
+  "id": "a8HLRsW4mIkUtjgn1",
+  "name": "QA-E2E- Organic cohesive encryption",
+  "disabled": false
+}
