@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c5bbb1ff2d314d9cdd043b"
+  ],
+  "createdDate": "2025-03-03T14:24:49.462Z",
+  "modifiedDate": "2025-03-03T14:25:11.65Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e-tmgbd-2afea",
+  "version": 2,
+  "id": "a46gnSizZ2AFQXWtD",
+  "name": "qa-e2e-tmgbd",
+  "disabled": true
+}
