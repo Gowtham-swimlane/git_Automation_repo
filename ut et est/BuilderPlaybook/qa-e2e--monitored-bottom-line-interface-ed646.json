@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c54ab415c249f8db7044d1"
+  ],
+  "createdDate": "2025-03-03T06:22:45.183Z",
+  "modifiedDate": "2025-03-03T06:23:09.586Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--monitored-bottom-line-interface-ed646",
+  "version": 2,
+  "id": "aWvdQg6rFxQc4Es2q",
+  "name": "QA-E2E- Monitored bottom-line interface",
+  "disabled": true
+}
