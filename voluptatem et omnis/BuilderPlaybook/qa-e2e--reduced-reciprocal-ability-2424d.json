@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "67c54c6e8e27486c0e0dc73e"
+  ],
+  "createdDate": "2025-03-03T06:30:06.537Z",
+  "modifiedDate": "2025-03-03T06:30:30.936Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "qa-e2e--reduced-reciprocal-ability-2424d",
+  "version": 2,
+  "id": "aJuXKd9Femh_EVXWP",
+  "name": "QA-E2E- Reduced reciprocal ability",
+  "disabled": true
+}
