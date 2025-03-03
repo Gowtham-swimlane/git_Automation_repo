@@ -1,0 +1,89 @@
+{
+  "description": "QA-E2E-App-Description",
+  "acronym": "QMBI",
+  "trackingFieldId": "67c54a801974dfee7ff6c3e0",
+  "layout": [
+    {
+      "fieldId": "abdpy",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c54a8a857f2a58130271d4",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "adxtx",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67c54a8b6e5c8660f6d49396",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "step": 1,
+      "unique": false,
+      "prefix": "",
+      "suffix": "",
+      "format": "None",
+      "id": "abdpy",
+      "name": "Numeric",
+      "key": "numeric",
+      "fieldType": "Numeric",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Email",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "adxtx",
+      "name": "Email",
+      "key": "email",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "QMBI-",
+      "id": "67c54a801974dfee7ff6c3e0",
+      "name": "Tracking Id",
+      "description": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": true
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2025-03-03T06:21:52.633Z",
+  "modifiedDate": "2025-03-03T06:22:06.877Z",
+  "timeTrackingEnabled": false,
+  "visibleToHeroAiEnabled": true,
+  "selectionFields": {},
+  "uid": "qa-e2e--monitored-bottom-line-interface-8ec48",
+  "version": 2,
+  "id": "aACzLAgBaP9WSutmB",
+  "name": "QA-E2E- Monitored bottom-line interface",
+  "disabled": false
+}

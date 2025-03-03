@@ -1,0 +1,13 @@
+{
+  "createdDate": "2025-03-03T06:21:53.389Z",
+  "modifiedDate": "2025-03-03T06:21:53.389Z",
+  "dashboards": [],
+  "applications": [
+    "aACzLAgBaP9WSutmB"
+  ],
+  "uid": "qa-e2e--monitored-bottom-line-interface-workspace-41410",
+  "version": 1,
+  "id": "adFq9fr9rVvnSKz26",
+  "name": "QA-E2E- Monitored bottom-line interface Workspace",
+  "disabled": false
+}
