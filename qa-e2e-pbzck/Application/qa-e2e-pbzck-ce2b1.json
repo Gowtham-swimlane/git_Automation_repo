@@ -1,0 +1,93 @@
+{
+  "description": "This is Test Description",
+  "acronym": "QAEE",
+  "trackingFieldId": "67d30512d56e1af873ec21d9",
+  "layout": [
+    {
+      "fieldId": "aavk4",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67d3051804040caec4831e14",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "awjyu",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "67d30519ac01cb9bca947289",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Telephone",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "aavk4",
+      "name": "Telephone",
+      "key": "telephone",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Email",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "awjyu",
+      "name": "Email",
+      "key": "email",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": false
+    },
+    {
+      "prefix": "QAEE-",
+      "id": "67d30512d56e1af873ec21d9",
+      "name": "Tracking Id",
+      "description": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false,
+      "visibleToHeroAi": true
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2025-03-13T16:17:22.85Z",
+  "modifiedDate": "2025-03-13T16:17:30.635Z",
+  "timeTrackingEnabled": false,
+  "visibleToHeroAiEnabled": true,
+  "selectionFields": {},
+  "uid": "qa-e2e-pbzck-ce2b1",
+  "version": 2,
+  "id": "aCdEGTYo05JQvsy3v",
+  "name": "qa-e2e-pbzck",
+  "disabled": false
+}
